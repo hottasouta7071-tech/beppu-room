@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beppuroomjp.github.io/beppu-room/sitemap.xml
