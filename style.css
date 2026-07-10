@@ -322,3 +322,29 @@ h1 span{
   .site-header{padding:14px 5vw}
   .section,.survey{padding-left:5vw;padding-right:5vw}
 }
+.review-card{
+    background:#fff;
+    border-radius:18px;
+    padding:24px;
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+.review-area{
+    color:#0ea5e9;
+    font-weight:700;
+}
+
+.review-card h3{
+    margin:8px 0;
+}
+
+.review-card p{
+    margin:8px 0;
+    line-height:1.8;
+}
+
+.review-date{
+    margin-top:15px;
+    font-size:14px;
+    color:#777;
+}
